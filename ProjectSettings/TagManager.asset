@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - GoldenBox
+  - Item
+  - Weapon
+  - Gold
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Card
+  - Water
+  - UI
+  - Player
+  - StageUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Card
+    uniqueID: 3831063375
+    locked: 0
+  - name: Shadow
+    uniqueID: 1072889251
+    locked: 0
+  - name: Entity
+    uniqueID: 3869410423
+    locked: 0

@@ -1,0 +1,4 @@
+Monster,Type,Hp,EffectiveRange,Resource
+Monster1,MONSTER_NORMAL,1,0,Resources_14
+Monster2,MONSTER_NORMAL,3,0,Resources_11
+Monster3,MONSTER_LONG_RANGED,2,1,Resources_15

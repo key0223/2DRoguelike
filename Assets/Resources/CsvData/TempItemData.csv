@@ -1,0 +1,5 @@
+Name,ItemType,Resource
+Potion1,POTION_HEAL,Resources_4
+Potion2,POTION_CONTINUOUS_HEAL,Resources_5
+Potion3,POTION_CLEAR_STATUS_EFFECT,Resources_6
+Shield1,SHIELD,Resources_12
